@@ -1,0 +1,222 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* TextureToolAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1017, 549}}";
+			sepNavSelRange = "{431, 33}";
+			sepNavVisRange = "{0, 470}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* TextureToolAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 2184}}";
+			sepNavSelRange = "{324, 0}";
+			sepNavVisRange = "{93, 1599}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 41F6538F124C359A000438F2 /* TextureTool */;
+		activeTarget = 8D1107260486CEB800E47090 /* TextureTool */;
+		breakpoints = (
+		);
+		codeSenseManager = 41F653AD124C35B3000438F2 /* Code sense */;
+		executables = (
+			41F6538F124C359A000438F2 /* TextureTool */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					905,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318651912;
+			PBXWorkspaceStateSaveDate = 318651912;
+		};
+		perUserProjectItems = {
+			4199F6D812F920B600F1ECBD /* PBXTextBookmark */ = 4199F6D812F920B600F1ECBD /* PBXTextBookmark */;
+			41C8327612FE3E2800E6A7BB /* PBXTextBookmark */ = 41C8327612FE3E2800E6A7BB /* PBXTextBookmark */;
+			41F655CF124C8EF2000438F2 /* PBXTextBookmark */ = 41F655CF124C8EF2000438F2 /* PBXTextBookmark */;
+			41F655DD124C9094000438F2 /* PBXTextBookmark */ = 41F655DD124C9094000438F2 /* PBXTextBookmark */;
+			41F6567A124D0AE6000438F2 /* PBXTextBookmark */ = 41F6567A124D0AE6000438F2 /* PBXTextBookmark */;
+			41F6569F124D1BA7000438F2 /* PBXTextBookmark */ = 41F6569F124D1BA7000438F2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 41F653AC124C35B3000438F2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4199F6D812F920B600F1ECBD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* TextureToolAppDelegate.m */;
+		name = "TextureToolAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 1599;
+		vrLoc = 93;
+	};
+	41C8327612FE3E2800E6A7BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* TextureToolAppDelegate.m */;
+		name = "TextureToolAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 1599;
+		vrLoc = 93;
+	};
+	41F6538F124C359A000438F2 /* TextureTool */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TextureTool;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	41F653AC124C35B3000438F2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	41F653AD124C35B3000438F2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	41F653D4124C3E48000438F2 /* CGColorSpace.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGColorSpace.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGColorSpace.h;
+		sourceTree = "<absolute>";
+	};
+	41F655A9124C8B81000438F2 /* CGImage.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGImage.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGImage.h;
+		sourceTree = "<absolute>";
+	};
+	41F655CF124C8EF2000438F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41F653D4124C3E48000438F2 /* CGColorSpace.h */;
+		name = "CGColorSpace.h: 87";
+		rLen = 60;
+		rLoc = 2690;
+		rType = 0;
+		vrLen = 1595;
+		vrLoc = 1903;
+	};
+	41F655DD124C9094000438F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41F655A9124C8B81000438F2 /* CGImage.h */;
+		name = "CGImage.h: 19";
+		rLen = 79;
+		rLoc = 602;
+		rType = 0;
+		vrLen = 1424;
+		vrLoc = 0;
+	};
+	41F6567A124D0AE6000438F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* TextureToolAppDelegate.h */;
+		name = "TextureToolAppDelegate.h: 21";
+		rLen = 33;
+		rLoc = 431;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	41F6569F124D1BA7000438F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41F656A0124D1BA7000438F2 /* UTCoreTypes.h */;
+		name = "UTCoreTypes.h: 850";
+		rLen = 10;
+		rLoc = 23267;
+		rType = 0;
+		vrLen = 1481;
+		vrLoc = 22088;
+	};
+	41F656A0124D1BA7000438F2 /* UTCoreTypes.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UTCoreTypes.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Headers/UTCoreTypes.h;
+		sourceTree = "<absolute>";
+	};
+	8D1107260486CEB800E47090 /* TextureTool */ = {
+		activeExec = 0;
+		executables = (
+			41F6538F124C359A000438F2 /* TextureTool */,
+		);
+	};
+}
